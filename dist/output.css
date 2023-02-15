@@ -821,6 +821,10 @@ video {
     height: 5rem;
   }
 
+  .md\:h-7 {
+    height: 1.75rem;
+  }
+
   .md\:w-\[400px\] {
     width: 400px;
   }
